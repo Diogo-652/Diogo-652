@@ -34,7 +34,7 @@ Aqui você encontrará uma seleção dos meus projetos desenvolvidos durante o c
 * **Descrição:** Este projeto é um sorteio de 6 números aleatórios (baseado na Mega-Sena). Ele foi desenvolvido para simular o sorteio da Mega-Sena, onde são sorteados 6 números diferentes, assim aumentando a possibilidade de resultados.
 * **Tecnologias:** Python
 * **Repositório GitHub:** `https://github.com/Diogo-652/sorteio-mega-sena`
-* **Documentação Detalhada (Google Drive):** [**COLOQUE AQUI O LINK DO SEU GOOGLE DOCS/DRIVE** com os detalhes sobre este projeto. Ex: `https://docs.google.com/document/d/123abc...`]
+* **Documentação Detalhada (Google Drive):** **(https://docs.google.com/document/d/1CUxBSWOxfC9z8TQIUNEeRXavy6NFyktULaFUGXamZuY/edit?usp=sharing)** 
 
 #### 🎶 Lumme - Aplicativo de Música e Podcast (Projeto de Engenharia de Software)
 * **Descrição:** O Lumme é um conceito de aplicativo de streaming de música e podcasts, projetado para oferecer uma experiência de áudio intuitiva e rica, semelhante a plataformas líderes de mercado. Desenvolvido como parte de um projeto de Engenharia de Software, este trabalho focou nas fases iniciais de concepção e planejamento de um produto digital.
